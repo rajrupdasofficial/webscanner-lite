@@ -1,4 +1,4 @@
-Here’s a README.md you can drop into the repo.
+
 
 # Nikto Multiprocess Web Scanner
 
